@@ -1,0 +1,8 @@
+/* line 13, ../sass/core.sass */
+html body #skills li {
+  display: block;
+  float: left;
+  background: #dddddd;
+  margin: 1px;
+  padding: 5px;
+}
